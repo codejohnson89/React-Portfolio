@@ -1,2 +1,2 @@
-# React-Portfolio
-React Portfolion Website
+# ReactJS-BoilerPlate
+This is a boiler plate template to start React Js projects
